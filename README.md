@@ -1,9 +1,10 @@
-# IllumiNation – The Smart Lighting Prototype
+# IllumiNation – Smart Lighting Prototype
 
 **Smart lighting, brighter futures**
 
 A multi-modal smart lighting system designed for medical environments, focused on accessibility, convenience, and energy efficiency. This project explores how intelligent lighting can reduce patient disruption, improve safety, and lower energy usage through sensor-driven automation and manual control.
 
+⸻
 
 ## The Problem
 
@@ -13,6 +14,7 @@ Patients often can't reach wall-mounted switches, especially at night, which for
 
 This project addresses those issues by creating a lighting system that is easy to access, adaptive to the environment, and usable without physical switches.
 
+⸻
 
 ## The Solution
 
@@ -32,6 +34,7 @@ A light sensor measures natural light levels and adjusts artificial lighting acc
 
 Any combination of these modes can be enabled simultaneously. For example, motion detection can remain active at night even if the lights are manually turned off, improving safety without disturbing sleep.
 
+⸻
 
 ## Why This Matters
 
@@ -41,6 +44,7 @@ Existing hospital lighting solutions usually implement these features in isolati
 - Minimizes nighttime disruption
 - Has the potential to reduce hospital energy consumption
 
+⸻
 
 ## System Overview
 
@@ -56,6 +60,7 @@ Existing hospital lighting solutions usually implement these features in isolati
 - LED lighting (used as a stand-in for room lighting)
 - Live feedback through the web interface
 
+⸻
 
 ## Hardware Used
 
@@ -74,6 +79,7 @@ Existing hospital lighting solutions usually implement these features in isolati
 
 The system connects sensor data and control logic directly to the UI, allowing real-time feedback and control.
 
+⸻
 
 ## User Interface
 
@@ -86,6 +92,7 @@ The web interface allows:
 
 The UI is designed to be simple, readable, and usable on both desktop and mobile devices.
 
+⸻
 
 ## Current Status
 
@@ -104,6 +111,7 @@ This repository represents a working prototype.
 - Expanded automation logic
 - Multi-room scalability
 
+⸻
 
 ## Disclaimer
 

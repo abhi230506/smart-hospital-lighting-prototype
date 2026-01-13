@@ -1,4 +1,4 @@
-# IllumiNation – Smart Lighting Prototype
+# IllumiNation – The Smart Lighting Prototype
 
 **Smart lighting, brighter futures**
 

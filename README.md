@@ -59,6 +59,9 @@ Existing hospital lighting solutions usually implement these features in isolati
 
 ## Hardware Used
 
+### Breadboard Wiring
+![Breadboard Setup](media/Breadboard%20Setup.JPG)
+
 | Component | Purpose |
 |-----------|---------|
 | Light Sensor (C2255-001) | Detects ambient light level |
@@ -85,6 +88,9 @@ The web interface allows:
 - Viewing time and date information
 
 The UI is designed to be simple, readable, and usable on both desktop and mobile devices.
+
+### Live Control Dashboard
+![Live Web Interface](media/The%20Live%20Web%20Interface.JPG)
 
 
 ## Current Status

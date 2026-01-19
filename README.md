@@ -4,6 +4,9 @@
 
 A multi-modal smart lighting system designed for medical environments, focused on accessibility, convenience, and energy efficiency. This project explores how intelligent lighting can reduce patient disruption, improve safety, and lower energy usage through sensor-driven automation and manual control.
 
+## Demo Video
+
+[![IllumiNation – Smart Hospital Lighting Demo](media/Smart%20Hospital%20Prototype%20Video%20Play.jpg)](https://youtu.be/_3CaISxmJbQ)
 
 ## The Problem
 
@@ -12,7 +15,6 @@ Lighting in hospitals is way less accessible than it should be.
 Patients often can't reach wall-mounted switches, especially at night, which forces them to call staff for basic lighting changes. Staff then end up disrupting patient rest during early morning rounds just to turn lights on. On top of that, traditional switches introduce hygiene concerns and increase fall risk in low-light conditions.
 
 This project addresses those issues by creating a lighting system that is easy to access, adaptive to the environment, and usable without physical switches.
-
 
 ## The Solution
 
